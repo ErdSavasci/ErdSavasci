@@ -23,7 +23,7 @@
 <img width="52%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdsavasci&" alt="erdsavasci"/>
 </p>
 
-<h3 align="left">You may connect with me via below ways:</h3>
+<h3 align="left">You may also connect with me via below ways:</h3>
 <p align="left">
 <a href="https://twitter.com/erdsaonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erdsaonline" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/erdemsavasci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erdemsavasci" height="30" width="40" /></a>
