@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Erdem Savasci</h1>
-<h3 align="center">A M.Sc. Graduate Software Engineer who currently works at e-Transformation & e-Finance field.</h3>
+<h3 align="center">A M.Sc. Graduate Senior Software Engineer</h3>
 
 <p align="left"> <img src="https://erdsavasci.com/cors/komarev.com/ghpvc/?username=erdsavasci&label=Profile%20views&color=0e75b6&style=flat" alt="erdsavasci" /> </p>
-
-- 💼 I’m currently working at [Cybersoft, Turkey](http://www.cybersoft.com.tr/ENG/?q=node)
 
 - 💻 My current interests are **Deep Learning/AI, Image Processing**
 
@@ -11,7 +9,7 @@
 
 - 💬 You may ask me about **Zero-Shot Learning**
 
-- 📄 You may know about my experiences from [https://erdsavasci.com/cv](https://erdsavasci.com/cv)
+- 📄 You may know about my experiences from [https://erdems.cv](https://erdems.cv)
 
 - 📫 Last but not least, you may reach me via **savasci.erd@gmail.com**
 
