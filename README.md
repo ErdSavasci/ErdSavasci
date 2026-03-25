@@ -1,15 +1,17 @@
-<h1 align="center">Hi there 👋, I'm Erdem Savasci</h1>
-<h3 align="center">A M.Sc. Graduate Senior Software Engineer</h3>
+<h1 align="center">Erdem Savasci</h1>
+<h3 align="center">Senior Software Engineer</h3>
 
 <p align="left"> <img src="https://erdsavasci.com/cors/komarev.com/ghpvc/?username=erdsavasci&label=Profile%20views&color=0e75b6&style=flat" alt="erdsavasci" /> </p>
 
-- 💻 My current interests are **Deep Learning/AI, Image Processing**
+- 💻 My main interests are Deep Learning/AI, Image Processing
 
-- 🔬 Necessary information about my projects are available at [https://erdsavasci.com](https://erdsavasci.com)
+- 🛠️ I am experienced in Java, Spring, JavaScript, Node.js
 
-- 💬 You may ask me about **Zero-Shot Learning**
+- 🔬 Necessary information about my projects are available at [erdsavasci.com](https://erdsavasci.com)
 
-- 📄 You may know about my experiences from [https://erdems.cv](https://erdems.cv)
+- 📄 You may reach my CV through [erdems.cv](https://erdems.cv)
+
+- 💬 You may ask me about Zero-Shot Learning ([Sample ZeroShot Project](https://gitlab.com/ErdSavasci/bil635-zeroshot_visualsearch_v02))
 
 - 📫 Last but not least, you may reach me via **savasci.erd@gmail.com**
 
