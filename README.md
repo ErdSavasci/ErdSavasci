@@ -25,8 +25,8 @@
 
 <h3 align="left">You may also connect with me via below ways:</h3>
 <p align="left">
-<a href="https://twitter.com/erdsaonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erdsaonline" height="30" width="40" /></a>
+<a href="https://x.com/erdsaonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erdsaonline" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/erdemsavasci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erdemsavasci" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10642437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10642437" height="30" width="40" /></a>
-<a href="https://instagram.com/erdsavasci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erdsavasci" height="30" width="40" /></a>
+<a href="https://instagram.com/virtue.ng.pub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erdsavasci" height="30" width="40" /></a>
 </p>
